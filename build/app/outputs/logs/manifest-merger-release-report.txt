@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+MERGED from [:shared_preferences] /Users/skye/Documents/flutterProject/hi_watch_app/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:70-104
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:1-24:12
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:2:5-75
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:2:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:5:22-73
+application
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:11:5-23:19
+	android:label
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:11:67-95
+	android:icon
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:11:96-130
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:11:18-66
+activity#com.example.hi_watch_app.MainActivity
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:launchMode
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:48-78
+	android:hardwareAccelerated
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:246-280
+	android:windowSoftInputMode
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:281-323
+	android:configChanges
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:114-245
+	android:theme
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:79-113
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:12:19-47
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:17:13-113
+	android:value
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:17:90-110
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:17:24-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences] /Users/skye/Documents/flutterProject/hi_watch_app/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/skye/Documents/flutterProject/hi_watch_app/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/skye/Documents/flutterProject/hi_watch_app/android/app/src/main/AndroidManifest.xml

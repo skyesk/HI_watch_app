@@ -1,0 +1,5 @@
+com.example.hi_watch_app
+drawable launch_background
+mipmap fangzai_logo
+mipmap ic_launcher
+style LaunchTheme

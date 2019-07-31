@@ -1,0 +1,4 @@
+#Fri Jul 26 17:12:08 CST 2019
+base.0=/Users/skye/Documents/flutterProject/hi_watch_app/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
